@@ -227,7 +227,7 @@ pm2 start main.py --name gemini-api --interpreter ./.venv/bin/python3
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/Dreamy-rain/gemini-business2api.git
+git clone https://github.com/fineTwilight/gemini-business2api.git
 cd gemini-business2api
 
 # 2. 配置环境变量
